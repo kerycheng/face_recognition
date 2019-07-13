@@ -1,7 +1,7 @@
 # face_recognition
 
-
-檔案路徑:
+----------------------------------------------------------------------------------------------
+## 檔案路徑:
 face-recognition/  
 ├── 01-face-detect-align-and-crop.ipynb  
 ├── 02-face-embedding-and-recognition-classifier.ipynb  
@@ -35,4 +35,6 @@ face-recognition/
         │   └── Aaron_Eckhart_0001.png  
         ├── ...     
         └── Zydrunas_Ilgauskas/     
-            └── Zydrunas_Ilgauskas_0001.png     
+            └── Zydrunas_Ilgauskas_0001.png   
+            
+-----------------------------------------------------------------------------------------------

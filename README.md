@@ -38,3 +38,13 @@ face-recognition/
             └── Zydrunas_Ilgauskas_0001.png   
             
 -----------------------------------------------------------------------------------------------
+
+## 專案的檔案路徑佈局
+1.在face-recognition的目錄裡產生二個子目錄data與model  
+2.從[Labeled Faces in the Wild資料集官網]點撃All images as gzipped tar file來下載lfw.tgz。    
+3.解壓縮lfw.tgz到face-recognition/data/的目錄下   
+4.執行01-face-detect-align-and-crop.ipynb來進行臉部偵測、對齊 & 裁剪    
+5.下載Facenet模型檔20170511-185253.zip(168M)並解壓縮到"model/facenet"的目錄下。  
+6.在"model"的目錄下產生一個子目錄"svm"來存放"人臉分類器"的模型。  
+7.執行02-face-embedding-and-recognition-classifier.ipynb來進行人臉特徵擷取(FaceNet) & 訓練人臉分類器    
+8.在"data"的目錄下產生一個子目錄"test"來存放"人臉辨識"用的測試圖像 

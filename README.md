@@ -14,7 +14,7 @@
 
 ----------------------------------------------------------------------------------------------
 ## 檔案路徑:
-<p>face-recognition/  
+<pre><code>face-recognition/  
 ├── 01-face-detect-align-and-crop.ipynb  
 ├── 02-face-embedding-and-recognition-classifier.ipynb  
 ├── 03-face-classification.ipynb  
@@ -47,4 +47,4 @@
         │   └── Aaron_Eckhart_0001.png  
         ├── ...     
         └── Zydrunas_Ilgauskas/     
-            └── Zydrunas_Ilgauskas_0001.png</p>  
+            └── Zydrunas_Ilgauskas_0001.png</pre></code> 

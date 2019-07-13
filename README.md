@@ -12,10 +12,10 @@ face-recognition/
 ├── model/  
 │   ├── svm/                                <--- 人臉分類器(svm)的模型  
 │   │   └── lfw_svm_classifier.pkl  
-│   ├── mtcnn/ 
-│   │   ├── det1.npy 
-│   │   ├── det2.npy    
-│   │   └── det3.npy    
+│   ├── mtcnn/  
+│   │   ├── det1.npy    
+│   │   ├── det2.npy      
+│   │   └── det3.npy      
 │   └── facenet/                            <--- Facenet的模型     
 │       └── 20170512-110547/    
 │          ├── 20170512-110547.pb   
